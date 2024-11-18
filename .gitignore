@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+cpp-libpqxx-app
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake

@@ -1,0 +1,5 @@
+.git/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+cpp-libpqxx-app
